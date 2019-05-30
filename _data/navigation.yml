@@ -2,7 +2,7 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Autonomous Vehicle REU"
-    url: 
+    url: /reu/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
